@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<title> Welcome To Robotics </title>
+	</head>
+	
+	<body>
+	
+		<div id="wrapper">
+	
+			<div id="top">
+				<div id="logo">
+					<img src="images/logo.jpg" height="114" width="247"/>
+				</div>
+		</div>
+			
+		</div>
+				
+		<div id="banner">
+				<img src="images/robotics.jpg">
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="index.html">ABOUT</a></li>
+				<li><a href="index.html">WORD</a></li>
+				<li><a href="index.html">POWERPOINT</a></li>
+			</ul>
+		</div>
+
+		
+		<div id="content">
+			<h1>This is the world of robotics</h1>
+			<p>This website was designed to educate the users of all the amazing things that could be achieved through the use of robotics.</p>
+
+		</div>
+		
+		<h3>Members In Our Group Are:</h3>
+		<ul>
+			<li>Mason</li>
+			<li>Kheyan</li>
+			<li>Sarah</li>
+			<li>Virgil</li>
+			<li>Alsworth</li>
+			<li>Areeb</li>
+		</ul>
+		
+	<body>
+	
+	</body>
+
+</html>
